@@ -5,7 +5,7 @@ A modern and responsive authentication screen built with React Native and Expo.
 ## Preview
 
 <p align="center">
-  <img src="./assets/preview.png" width="300" alt="Sign In Screen Preview" />
+  <img src="./assets/images/signin.jpeg" width="300" alt="Sign In Screen Preview" />
 </p>
 
 ---
